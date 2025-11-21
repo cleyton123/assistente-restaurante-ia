@@ -1,26 +1,21 @@
 # 🍽️ Assistente de Restaurante com IA
 
-Um assistente virtual inteligente para restaurantes, construído com LangChain e Groq API, que oferece uma experiência conversacional natural para atendimento ao cliente.
+Assistente virtual para restaurantes usando LangChain e Groq API com histórico de conversação.
 
-## 📋 Sobre o Projeto
+## 🚀 Tecnologias
 
-Este assistente utiliza inteligência artificial para simular um atendente de restaurante profissional, capaz de:
+- Python 3.8+
+- LangChain
+- Groq API (LLaMA 3.3 70B)
+- python-dotenv
 
-- ✅ Receber e processar pedidos
-- 🎯 Sugerir pratos baseado em preferências
-- 📖 Explicar ingredientes e preparos
-- ✔️ Confirmar escolhas do cliente
-- 💬 Manter contexto da conversa com histórico de mensagens
+## 📋 Funcionalidades
 
-## 🚀 Tecnologias Utilizadas
+- Receber pedidos
+- Sugerir pratos
+- Explicar ingredientes
+- Manter histórico da conversa
+- Atendimento personalizado
+---
 
-- **Python 3.8+**
-- **LangChain** - Framework para aplicações com LLMs
-- **Groq API** - API de inferência de alta performance
-- **LLaMA 3.3 70B** - Modelo de linguagem avançado
-- **python-dotenv** - Gerenciamento de variáveis de ambiente
-
-## 📦 Instalação
-
-### 1. Clone o repositório
-```bash
+⭐ Dê uma estrela se este projeto foi útil!
