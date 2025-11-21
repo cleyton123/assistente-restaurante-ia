@@ -18,4 +18,3 @@ Assistente virtual para restaurantes usando LangChain e Groq API com histórico 
 - Atendimento personalizado
 ---
 
-⭐ Dê uma estrela se este projeto foi útil!
